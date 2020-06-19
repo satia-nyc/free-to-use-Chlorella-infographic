@@ -1,4 +1,4 @@
-# free-to-use-Chlorella-infographic
+# Health Benefits of Chlorella - free to use
 Chlorella Health Benefits Infographic -- free to use with attribution
 
 These infographics are free to use on your website or blog with attribution under the creative commons attribution license. 
