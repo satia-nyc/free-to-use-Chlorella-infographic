@@ -4,10 +4,9 @@ Chlorella Health Benefits Infographic -- free to use with attribution
 
 These infographics are free to use with attribution under the creative commons attribution license
 
+![free to use - Health Benefits of Chlorella Infographic](https://github.com/satia-nyc/free-to-use-Chlorella-infographic/blob/master/health-benefits-of-chlorella.jpg)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![free to use - Health Benefits of Chlorella Infographic - 2](https://github.com/satia-nyc/free-to-use-Chlorella-infographic/blob/master/health-benefits-of-chlorella-2.jpg?raw=true)
 
-
-[creative commons attribution licence](https://creativecommons.org/licenses/by/4.0/)
-
+![free to use - Health Benefits of Chlorella Infographic - 3](https://github.com/satia-nyc/free-to-use-Chlorella-infographic/blob/master/health-benefits-of-chlorella-3.jpg)
 
