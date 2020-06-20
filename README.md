@@ -22,4 +22,5 @@ If you use any of these infographics, please include a link to the original sour
 [chlorella infographic](https://satia-nyc.github.io/free-to-use-Chlorella-infographic/)
 
 
+
 [satia](https://blog.satia.nyc/)
